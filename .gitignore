@@ -1,0 +1,9 @@
+# Ignore Python virtual environments
+venv/
+.venv/
+env/
+.env/
+Lib/
+Include/
+Scripts/
+bin/
